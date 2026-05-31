@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsponnect",
+        "uuid": 12741062,
+        "checksum": "eav4bx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
